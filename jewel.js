@@ -2211,7 +2211,6 @@ var game = function () {
   }
   function _0x1fb688(_0x3f5bc2, _0x48d1c1, _0x3da640) {
     var _0x3d5cfd = _0x2850b5;
-    var _0x464a6a["score"] = 30000;
     if ('yqMdM' !== _0x3d5cfd(567)) {
       if (_0x3f5bc2 == _0x3d5cfd(301)) _0x3d5cfd(568) !== 'KVwhT' ? _0x4b8a37[_0x3d5cfd(525)](0) : _0x2f99ef = 15;
        else {
